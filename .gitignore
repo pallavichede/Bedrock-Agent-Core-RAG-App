@@ -1,0 +1,45 @@
+# Environment variables
+.env
+.env.local
+*.env
+
+# Configuration files
+*.yaml
+*.yml
+.bedrock_agentcore.yaml
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.dockerignore
+
+# Indexes (large files)
+faiss_index/
+.bedrock_agentcore/
+uv.lock
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.zip
+.DS_Store
+
