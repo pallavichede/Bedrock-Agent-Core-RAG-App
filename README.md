@@ -2,7 +2,7 @@
 
 This crash course is a hands-on introduction to **Amazon Bedrock AgentCore**, a fully managed service for building and deploying intelligent agents. This repository contains progressive examples demonstrating how to build AI agents that leverage language models, RAG (Retrieval-Augmented Generation), and memory management.
 
-## 📚 Course Structure
+#### 📚 Course Structure
 
 This course includes three example implementations of increasing complexity:
 
